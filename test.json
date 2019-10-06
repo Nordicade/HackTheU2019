@@ -1,0 +1,82 @@
+[
+	{
+		coordinates: -100.2683534291851 37.34496786295273
+		age: 79
+		maritalStatus: Single
+		gender: Male
+		educationLevel: Bachelor's
+	}
+
+	{
+		coordinates: -101.55666435848654 36.688308090672116
+		age: 70
+		maritalStatus: Single
+		gender: Female
+		educationLevel: High School Grad
+	}
+
+	{
+		coordinates: -92.3206516872249 40.256922262002675
+		age: 34
+		maritalStatus: Married
+		gender: Male
+		educationLevel: Pre-grad
+	}
+
+	{
+		coordinates: -84.31949452862975 37.96381175362421
+		age: 99
+		maritalStatus: Married
+		gender: Female
+		educationLevel: Bachelor's
+	}
+
+	{
+		coordinates: -110.03987969687586 49.31870045377424
+		age: 90
+		maritalStatus: Single
+		gender: Male
+		educationLevel: Master's
+	}
+
+	{
+		coordinates: -94.49161150510997 48.37811796541993
+		age: 57
+		maritalStatus: Single
+		gender: Unspecified
+		educationLevel: Associate's
+	}
+
+	{
+		coordinates: -100.28099926959558 46.81908559399706
+		age: 93
+		maritalStatus: Married
+		gender: Unspecified
+		educationLevel: Master's
+	}
+
+	{
+		coordinates: -111.10616258992681 40.410299516255165
+		age: 55
+		maritalStatus: Single
+		gender: Unspecified
+		educationLevel: High School Grad
+	}
+
+	{
+		coordinates: -78.28225561380742 41.55216987398003
+		age: 88
+		maritalStatus: Married
+		gender: Female
+		educationLevel: High School Grad
+	}
+
+	{
+		coordinates: -118.46222497617859 45.92327835732331
+		age: 24
+		maritalStatus: Single
+		gender: Male
+		educationLevel: High School Grad
+	}
+
+]
