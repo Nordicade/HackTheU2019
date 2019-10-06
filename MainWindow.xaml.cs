@@ -30,10 +30,11 @@ namespace ArcGISApp2
             string currentline;
 
             // Read the file and display it line by line.  
-            System.IO.StreamReader  tempFile= new System.IO.StreamReader(@"C:\Users\jljut\Desktop\test.txt");
+            //C:\Users\jljut\Desktop\test.txt
+            System.IO.StreamReader  tempFile= new System.IO.StreamReader(@"test.txt");
             while ((currentline = tempFile.ReadLine()) != null)
             {
-                char[] space = { ' ' };
+                char[] space = { ',' };
                 string[] logLat = currentline.Split(space);
                 double.TryParse(logLat[0], out double log);
                 double.TryParse(logLat[1], out double lat);
